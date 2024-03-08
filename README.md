@@ -12,3 +12,9 @@
 ## Schematic
 ![alt text](circuit.png "circuit")
 #
+
+# Note :
+- ### use only 2.0.8 version of ESP32 board in Arduino
+- ### Folder "IR_decoder" is to decode and get the Hexcodes of the IR remote Buttons
+- ### Folder "SMART_SWITCH_V1" is the main code folder
+
